@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Joao Dallagnol
 
-<!--
-**dallagnoldev/dallagnoldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **I build things.**
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Backend**
+
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Tools & OS**
+
+![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
