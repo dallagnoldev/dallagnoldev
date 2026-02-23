@@ -1,10 +1,11 @@
 # Hi 👋, I'm Joao Dallagnol
 
-> **I build things.**
+**I build things.**
 
-&nbsp;
+---
 
 ### Tech Stack
+
 **Backend**
 
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
