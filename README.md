@@ -8,7 +8,7 @@
 
 **Backend**
 
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)  
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=for-the-badge&logo=spring&logoColor=6DB33F) ![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=Hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) 
 
 **Frontend**
 
