@@ -1,6 +1,6 @@
 # Hi 👋, I'm João Dallagnol
 
-**Software Engineer | Backend Developer**
+**IT Student | Backend Developer**
 
 ---
 
