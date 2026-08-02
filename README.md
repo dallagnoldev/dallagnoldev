@@ -12,8 +12,7 @@
 ![Spring](https://img.shields.io/badge/spring-%23000000.svg?style=for-the-badge&logo=spring&logoColor=6DB33F) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=Hibernate&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1) 
-![JUnit5](https://img.shields.io/badge/JUnit5-000000.svg?style=for-the-badge&logo=junit5&logoColor=25A162) 
-![Mockito](https://img.shields.io/badge/Mockito-000000.svg?style=for-the-badge&logo=testinglibrary&logoColor=RED) 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23000000.svg?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 ![Swagger](https://img.shields.io/badge/swagger-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 
 **DevOps & Cloud**  
